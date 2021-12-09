@@ -1,5 +1,5 @@
 ---
-title: "My Amazing Title"
+title: "My Amazing Title v2"
 output: html_document
 ---
 
